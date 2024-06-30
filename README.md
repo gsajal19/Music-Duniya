@@ -1,6 +1,6 @@
 # Website-MusicDuniya
 
-### <a href="https://sameswer.000webhostapp.com/">Click Here for Preview </a>
+### <a href="https://musicduniyax.000webhostapp.com/">Click Here for Preview </a>
 
 ### This is a Music Website Based on Html,Css,Js and Php. For DataBase I have used MySQL. 
 
