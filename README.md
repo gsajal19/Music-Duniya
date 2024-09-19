@@ -1,6 +1,6 @@
 # Website-MusicDuniya
 
-### <a href="https://http://music-world.42web.io/?i=1">Click Here for Preview </a>
+### <a href="http://music-world.42web.io/?i=1">Click Here for Preview </a>
 
 ### This is a Music Website Based on Html,Css,Js and Php. For DataBase I have used MySQL. 
 
